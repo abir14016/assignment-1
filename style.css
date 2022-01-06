@@ -157,11 +157,10 @@ body{
     height:500px;
 }
 .first-half{
-    background-image: url(images/shapes/shape-3.png);
+    background-image: url(images/shapes/shape-5.png);
     background-repeat:no-repeat;
-    background-size: 150px 150px;
-    background-position-x: 30px;
-    background-position-y: 0px ;
+    background-size: 700px 700px;
+    background-position: center;
 }
 
 footer{
