@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 
-h1{
+.first-heading{
     font-size: 60px; 
     font-family: 'yeseva one', cursive;
     font-weight: 700;
@@ -40,9 +40,9 @@ h1{
     text-decoration: none;
     background-image: linear-gradient(salmon,tomato);
     color: #fff;
-    padding: 10px 20px;
+    padding: 15px 25px;
     border-radius: 7px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .stay-focused-area-padding{
     padding-top: 100px;
@@ -82,10 +82,64 @@ h1{
 .third-width{
     width: 25%;
 }
-.inner-mission-area img,h2,p{
+.special{
     padding-left: 10%;
     padding-right: 10%;
 }
 .inner-mission-area p{
     padding-bottom: 5%;
+}
+.inner-develop-area{
+    display: flex;
+}
+.small-area{
+    width: 40%;
+}
+.bigger-area{
+    width: 60%;
+    margin-left: 5%;
+}
+.inner-develop-area img{
+    width: 70%;
+}
+.develop-heading{
+    font-size: 40px;
+}
+.small-area img{
+    float: right;
+}
+.develop-paragraph{
+    margin-bottom: 5%;
+    margin-right: 20%;
+    font-size: 20px;
+}
+.develop-area{
+    margin-bottom: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px 300px;
+}
+
+.bigger-community-area{
+    width: 60%;
+    margin-left: 10%;
+}
+.small-community-area{
+    width: 40%;
+}
+/*.small-area img{
+    float: left;*/
+}
+.special-class{
+    margin-right: 20%;
+}
+.community-area{
+    padding-bottom: 10%;
+    margin-bottom: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom ;
+    background-size: 300px 300px;
 }
