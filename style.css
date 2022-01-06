@@ -47,3 +47,45 @@ h1{
 .stay-focused-area-padding{
     padding-top: 100px;
 }
+.mission-area{
+    margin: 5% 0%;
+}
+.mission-heading{
+    text-align: center;
+    font-size: 50px;
+}
+.mission-heading-color{
+    color: rgb(15, 15, 66);
+}
+.inner-mission-area{
+    display: flex;
+}
+.inner-mission-area img{
+    width: 40%;
+    padding-top: 5%;
+}
+.mission{
+    background-color: rgb(193, 226, 215);
+    border-radius: 30px;
+    margin-left: 10%;
+}
+.vission{
+    background-color: rgb(207, 203, 197);
+    border-radius: 30px;
+    margin-left: 2.5%;
+}
+.goals{
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-left: 2.5%;
+}
+.third-width{
+    width: 25%;
+}
+.inner-mission-area img,h2,p{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.inner-mission-area p{
+    padding-bottom: 5%;
+}
